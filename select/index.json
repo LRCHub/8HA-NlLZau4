@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Scheme",
+  "base_artist": "Flaw",
+  "createdAt": "2026-02-17T15:30:48.408471Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get Rich Quick Scheme",
+      "artist": "Mike",
+      "has_synced": false,
+      "path": "select/01_Get_Rich_Quick_Scheme_Mike.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Top Scheme",
+      "artist": "For Those I Love",
+      "has_synced": false,
+      "path": "select/02_Top_Scheme_For_Those_I_Love.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Diabolic Scheme",
+      "artist": "The Hives",
+      "has_synced": true,
+      "path": "select/03_Diabolic_Scheme_The_Hives.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Scheme",
+      "artist": "Primus",
+      "has_synced": false,
+      "path": "select/04_The_Scheme_Primus.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Numerical Scheme",
+      "artist": "Veil of Maya",
+      "has_synced": true,
+      "path": "select/05_Numerical_Scheme_Veil_of_Maya.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pyramid Scheme",
+      "artist": "COIN",
+      "has_synced": true,
+      "path": "select/06_Pyramid_Scheme_COIN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lost In the Grand Scheme",
+      "artist": "...And You Will Know Us By the Trail of Dead",
+      "has_synced": false,
+      "path": "select/07_Lost_In_the_Grand_Scheme_...And_You_Will_Know_Us_By_the_Trail_of_Dead.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Flag/Da Homies - feat. Ty Dolla $ign, Jay 305, AD, Mitch E-Slick, Joe Moses, RJ & Scheme",
+      "artist": "The Game, Scheme, Mitch E-Slick, Joe Moses, Ty Dolla $ign, Jay 305, RJ & Ad",
+      "has_synced": false,
+      "path": "select/08_My_Flag_Da_Homies_-_feat._Ty_Dolla_$ign,_Jay_305,_AD,_Mitch_E-Slick,_Joe_Moses,__The_Game,_Scheme,_Mitch_E-Slick,_Joe_Moses,_Ty_Dolla_$ign,_Jay_305,_RJ_&_Ad.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Rhyme Scheme",
+      "artist": "Cursive",
+      "has_synced": false,
+      "path": "select/09_The_Rhyme_Scheme_Cursive.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tun Up Di Scheme",
+      "artist": "Vybz Kartel",
+      "has_synced": false,
+      "path": "select/10_Tun_Up_Di_Scheme_Vybz_Kartel.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Selection (with Skrillex, DJ Scheme)",
+      "artist": "Lil Tecca feat. Skrillex & DJ Scheme",
+      "has_synced": true,
+      "path": "select/11_Selection_(with_Skrillex,_DJ_Scheme)_Lil_Tecca_feat._Skrillex_&_DJ_Scheme.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Selection feat. Skrillex & DJ Scheme",
+      "artist": "Lil Tecca",
+      "has_synced": true,
+      "path": "select/12_Selection_feat._Skrillex_&_DJ_Scheme_Lil_Tecca.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pyramid Scheme",
+      "artist": "Mad Caddies",
+      "has_synced": true,
+      "path": "select/13_Pyramid_Scheme_Mad_Caddies.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Scheme",
+      "artist": "Flaw",
+      "has_synced": false,
+      "path": "select/pl_01_Scheme_Flaw.txt"
+    }
+  ]
+}
